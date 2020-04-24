@@ -1,0 +1,23 @@
+
+.button2x{
+  height:59px;
+  width:20px;
+  color: gray;
+  font-size: large;
+  font-weight: bolder;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.buttonDM{
+  height:59px;
+  width:20px;
+  margin-left: 20px;
+  color: gray;
+  font-size: large;
+  font-weight: bolder;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
